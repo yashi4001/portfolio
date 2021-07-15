@@ -7,6 +7,7 @@ body{
 #hero{
     height: calc(100vh);
     overflow-x: hidden;
+    overflow-y:hidden;
 
 }
 .heading{
@@ -22,6 +23,7 @@ body{
 #about{
     height: calc(100vh);
     overflow-x: hidden;
+    overflow-y:hidden;
     font-family: 'Montserrat', sans-serif;
 }
 
