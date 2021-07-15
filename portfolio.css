@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    margin:0;
+}
+
+#hero{
+    height: calc(100vh);
+    overflow-x: hidden;
+
+}
+.heading{
+    font-family: 'Pattaya', sans-serif;
+    background-image: linear-gradient(45deg, #9c569e, #28063b);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    text-align: center;
+}
+#about{
+    height: calc(100vh);
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#projects{
+    height: calc(100vh);
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card{
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.project1{
+    background: #00303F;
+    color:seashell
+}
+
+.project2{
+    background: #D6E5FA;
+}
+
+footer{
+    background-color:#333333;
+    padding: 1em;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+.fa-linkedin-in{
+    font-size: 50px;
+    color: #28063b;  
+}
+.fa-hackerrank{
+    font-size: 50px;
+    color: #28063b;
+}
+
+.fa-github{
+    font-size: 50px;
+    color: #28063b;
+}
+
+.nav{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-link{
+    color:black;
+}
+
+
+
